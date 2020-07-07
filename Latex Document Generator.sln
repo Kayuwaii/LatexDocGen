@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatexDocGen", "Latex Docume
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatexDocGen.Core", "LatexDocGen.Core\LatexDocGen.Core.csproj", "{7A19440B-B365-4999-8591-44CA80CBE9AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatexDocGen.Core.BlockManager", "LatexDocGen.Core.BlockManager\LatexDocGen.Core.BlockManager.csproj", "{F27C21F3-0784-469E-90EB-50869D662096}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27C21F3-0784-469E-90EB-50869D662096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27C21F3-0784-469E-90EB-50869D662096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27C21F3-0784-469E-90EB-50869D662096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27C21F3-0784-469E-90EB-50869D662096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

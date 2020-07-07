@@ -1,0 +1,5 @@
+E:\Documentos\LatexDocGen\LatexDocGen.Core\bin\Release\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core\bin\Release\LatexDocGen.Core.pdb
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Release\LatexDocGen.Core.csproj.CoreCompileInputs.cache
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Release\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Release\LatexDocGen.Core.pdb

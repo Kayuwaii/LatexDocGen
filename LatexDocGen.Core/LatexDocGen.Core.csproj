@@ -42,11 +42,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Attributes\ParameterTypeDefinition.cs" />
-    <Compile Include="Component.cs" />
-    <Compile Include="ParameterType.cs" />
+    <Compile Include="Block.cs" />
+    <Compile Include="ChildBlock.cs" />
+    <Compile Include="Enums\ParameterType.cs" />
     <Compile Include="Attributes\TypeDefinition.cs" />
-    <Compile Include="ComponentType.cs" />
+    <Compile Include="Enums\BlockType.cs" />
     <Compile Include="EnumExtensions.cs" />
+    <Compile Include="Parameter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

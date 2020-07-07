@@ -1,0 +1,21 @@
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\Data\Blocks.lbi
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\Latex Document Generator.exe.config
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\Latex Document Generator.exe
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\Latex Document Generator.pdb
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\LatexDocGen.Core.BlockManager.dll
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\LatexDocGen.Core.BlockManager.pdb
+E:\Documentos\LatexDocGen\Latex Document Generator\bin\Release\LatexDocGen.Core.pdb
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\LatexDocGen.csprojAssemblyReference.cache
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\MainWindow.g.cs
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\App.g.cs
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\Latex Document Generator_MarkupCompile.cache
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\Latex Document Generator_MarkupCompile.lref
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\MainWindow.baml
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\Latex Document Generator.g.resources
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\LatexDocGen.Properties.Resources.resources
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\LatexDocGen.csproj.GenerateResource.cache
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\LatexDocGen.csproj.CoreCompileInputs.cache
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\LatexDocGen.csproj.CopyComplete
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\Latex Document Generator.exe
+E:\Documentos\LatexDocGen\Latex Document Generator\obj\Release\Latex Document Generator.pdb

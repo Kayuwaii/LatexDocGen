@@ -1,0 +1,10 @@
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\bin\Debug\Data\Blocks.lbi
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\bin\Debug\LatexDocGen.Core.BlockManager.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\bin\Debug\LatexDocGen.Core.BlockManager.pdb
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\bin\Debug\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\bin\Debug\LatexDocGen.Core.pdb
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\obj\Debug\LatexDocGen.Core.BlockManager.csprojAssemblyReference.cache
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\obj\Debug\LatexDocGen.Core.BlockManager.csproj.CoreCompileInputs.cache
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\obj\Debug\LatexDocGen.Core.BlockManager.csproj.CopyComplete
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\obj\Debug\LatexDocGen.Core.BlockManager.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core.BlockManager\obj\Debug\LatexDocGen.Core.BlockManager.pdb

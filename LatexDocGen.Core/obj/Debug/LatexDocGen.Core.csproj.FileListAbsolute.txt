@@ -1,0 +1,6 @@
+E:\Documentos\LatexDocGen\LatexDocGen.Core\bin\Debug\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core\bin\Debug\LatexDocGen.Core.pdb
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Debug\LatexDocGen.Core.csprojAssemblyReference.cache
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Debug\LatexDocGen.Core.csproj.CoreCompileInputs.cache
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Debug\LatexDocGen.Core.dll
+E:\Documentos\LatexDocGen\LatexDocGen.Core\obj\Debug\LatexDocGen.Core.pdb

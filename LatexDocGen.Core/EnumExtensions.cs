@@ -22,7 +22,7 @@ namespace LatexDocGen.Core
         /// <summary>
         /// Gets the display name for the component type
         /// </summary>
-        public static string GetName(this ComponentType value)
+        public static string GetName(this BlockType value)
         {
             var attribute = value.GetAttribute<TypeDefinition>();
             return attribute == null ? value.ToString() : attribute.Name;
