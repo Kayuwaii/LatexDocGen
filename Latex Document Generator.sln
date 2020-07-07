@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatexDocGen", "Latex Document Generator\LatexDocGen.csproj", "{DFCE7956-71B0-4DC5-B807-1C5032D07C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatexDocGen.Core", "LatexDocGen.Core\LatexDocGen.Core.csproj", "{7A19440B-B365-4999-8591-44CA80CBE9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFCE7956-71B0-4DC5-B807-1C5032D07C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCE7956-71B0-4DC5-B807-1C5032D07C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCE7956-71B0-4DC5-B807-1C5032D07C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCE7956-71B0-4DC5-B807-1C5032D07C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A19440B-B365-4999-8591-44CA80CBE9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499EABAD-2CD0-44FB-A26C-9CEC0086D0FF}
+	EndGlobalSection
+EndGlobal
